@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/ayushsaini121/ames-housing-statistical-analysis/blob/main/ames_housing_statistical_analysis.ipynb)
+
 # Statistical Modeling and Analysis of the Ames Housing Dataset
 
 This project presents a comprehensive statistical analysis of the Ames Housing dataset
