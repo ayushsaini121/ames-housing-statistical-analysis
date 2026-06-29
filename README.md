@@ -1,5 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/ayushsaini121/ames-housing-statistical-analysis/blob/main/ames_housing_statistical_analysis.ipynb)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
 
 # Statistical Modeling and Analysis of the Ames Housing Dataset
 
